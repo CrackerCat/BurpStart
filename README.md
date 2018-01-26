@@ -1,6 +1,6 @@
 ## BurpSuite注册机 & 加载器源代码
 
-**此项目来源于https://mp.weixin.qq.com/s/HfvS7F-ZfPFnjbhX1M85ow 的反编译，有兴趣的读者可以自己下载jar并反编译**
+**此项目来源于https://mp.weixin.qq.com/s/HfvS7F-ZfPFnjbhX1M85ow 的反编译，有兴趣的读者可以自己下载jar并反编译。**
 
 **代码仅供研究学习，请于24小时内删除**
 
