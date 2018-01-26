@@ -248,7 +248,8 @@ public class KeygenDialog
   
   private String generateLicense(String licenseName)
   {
-    String[] licenseArray = { getRandomString(), "license", licenseName, String.valueOf(new Date().getTime() + 315569521000L), "1", "full", "tdq99QBI3DtnQQ7rRJLR0uAdOXT69SUfAB/8O2zi0lsk4/bXkM58TP6cuhOzeYyrVUJrM11IsJhWrv8SiomzJ/rqledlx+P1G5B3MxFVfjML9xQz0ocZi3N+7dHMjf9/jPuFO7KmGfwjWdU4ItXSHFneqGBccCDHEy4bhXKuQrA=" };
+    // 授权到期时间 + xx 年
+    String[] licenseArray = { getRandomString(), "license", licenseName, String.valueOf(new Date().getTime() + 5000000000000L), "1", "full", "tdq99QBI3DtnQQ7rRJLR0uAdOXT69SUfAB/8O2zi0lsk4/bXkM58TP6cuhOzeYyrVUJrM11IsJhWrv8SiomzJ/rqledlx+P1G5B3MxFVfjML9xQz0ocZi3N+7dHMjf9/jPuFO7KmGfwjWdU4ItXSHFneqGBccCDHEy4bhXKuQrA=" };
     
     return prepareArray(licenseArray);
   }
