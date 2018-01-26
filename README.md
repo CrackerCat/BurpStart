@@ -7,6 +7,7 @@
 ### 一、项目说明：
 由于是反编译别人的项目，版权也归原作者所有。项目output目录下有三个文件：
 burpsuite_pro_v1.7.31.jar、BurpKeygen.jar、BurpLoader.jar，其中BurpKeygen.jar是注册机，**首次使用burpsuite必须使用它来注册**。之后可以使用BurpKeygen.jar来启动burpsuite或者使用BurpLoader.jar直接便捷启动burpsuite。
+images文件夹中的1.png和2.png为执行效果图。
 
 项目根目录下的BurpLoader.zip为BurpLoader的源代码，因为比较简单，就不单独放一个项目了。
 
@@ -43,7 +44,10 @@ https://mvnrepository.com/artifact/com.intellij/forms_rt/7.0.3
 
 3、IntelliJ IDEA配置以上两个项目可以直接生成jar文件
 
+**执行效果：**
 
+![](https://github.com/anbai-inc/BurpStart/blob/master/output/images/1.png)
 
+![](https://github.com/anbai-inc/BurpStart/blob/master/output/images/2.png)
 
 ##### 问题反馈 redfree@anbai.com
