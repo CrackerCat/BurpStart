@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BurpLoader:jar">
+    <output-path>$PROJECT_DIR$/output</output-path>
+    <root id="archive" name="BurpKeygen.jar">
+      <element id="module-output" name="burp-loader-keygen" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/forms_rt-7.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
