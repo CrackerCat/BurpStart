@@ -44,6 +44,8 @@ https://mvnrepository.com/artifact/com.intellij/forms_rt/7.0.3
 
 3、IntelliJ IDEA配置以上两个项目可以直接生成jar文件
 
+4、已注册的BurpSuite可以通过BurpSuite菜单help > License > Update License Key功能重新更换License
+
 **执行效果：**
 
 ![](https://github.com/anbai-inc/BurpStart/blob/master/output/images/1.png)
